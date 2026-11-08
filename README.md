@@ -5,6 +5,7 @@ A set of [Claude Code](https://claude.com/claude-code) subagents and skills that
 - a **ball** (hemisphere-projected sphere) and a **plane** with real displaced relief,
 - neutral-grey series stills (ball, ball equator, plane, close-up),
 - a saved `.blend` scene after every stage so you can inspect the process,
+- optional hair-curve grass and moss, optional 8K detail upgrade (AI upscale + procedural micro layer, always labelled as invented),
 - an optional GLB export, an optional turntable MP4,
 - a "texture-guide" sheet and a social thread for the result.
 
